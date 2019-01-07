@@ -14,7 +14,7 @@ export class RecipeListComponent implements OnInit {
       'https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto,w_640,c_fit,fl_strip_profile/https://s3.amazonaws.com/pixtruder/original_images/d852987f86aeae8b65926f9e7a260c28285ea744'
       ),
     new Recipe(
-      'Brocolli',
+      'Dark Chocolate',
       'Super food vegetable',
       'https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto,w_640,c_fit,fl_strip_profile/https://s3.amazonaws.com/pixtruder/original_images/d852987f86aeae8b65926f9e7a260c28285ea744'
     )
